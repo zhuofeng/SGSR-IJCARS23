@@ -1,7 +1,9 @@
-The official implementation of paper "SGSR: Style-subnets-assisted Generative latent bank for large-factor Super-Resolution with registered medical image dataset"
+!!Update in progress!!
+
+The official implementation of paper "SGSR: Style-subnets-assisted Generative latent bank for large-factor Super-Resolution with registered medical image dataset".
 
 ## Installation
-The code is based on mmediting, now mmagic (https://github.com/open-mmlab/mmagic)
+The code is based on mmediting, which is now mmagic (https://github.com/open-mmlab/mmagic).
 Please refer to [install.md](docs/en/install.md) for installation.
 
 ## Dataset
